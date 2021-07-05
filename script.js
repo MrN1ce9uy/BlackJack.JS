@@ -1,6 +1,5 @@
 //
 // Blackjack
-// by John Files
 //
 
 // Card variables
