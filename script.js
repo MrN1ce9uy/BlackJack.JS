@@ -85,8 +85,3 @@ function showStatus() {
 function getNextCard() {
     return deck.shift();
 }
-
-
-
-
-
